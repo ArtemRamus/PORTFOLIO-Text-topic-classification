@@ -1,5 +1,0 @@
-Article:
-https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
-
-Github code:
-https://github.com/susanli2016/NLP-with-Python/blob/master/Text_Classification_With_BERT.ipynb
